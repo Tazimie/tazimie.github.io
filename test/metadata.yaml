@@ -1,0 +1,24 @@
+---
+toc: false # 是否生成目录
+toc-depth: 3 # 目录的最大层级
+number-sections: false # 是否为各级标题编号
+
+
+# pandoc-crossref
+chapters: false # 是否按章节编号图表
+figureTitle: "Figure" # 图片的标题前缀
+figPrefix: 
+  - "Figure" # 正文引用图片的前缀
+  - "Figures" # 多个图片时的前缀，下面的表格同理
+figLabels: arabic # 图片编号的数字格式
+tableTitle: "Table" # 表的标题前缀
+tblPrefix: 
+  - "Table"
+  - "Tables"
+tblLabels: arabic
+
+# reference
+reference-section-title: "Reference" # 文末的reference的标题
+bibliography: test.bib # 引文书目bib文件的路径
+csl: zoological-journal-of-the-linnean-society.csl # 参考文献的csl样式文件的路径
+---
