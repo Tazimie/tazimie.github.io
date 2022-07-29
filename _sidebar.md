@@ -1,24 +1,28 @@
   - [_coverpage](/_coverpage.md)
-  - job
-    - [_申论](/job/_申论.md)
-    - [_经验之谈](/job/_经验之谈.md)
-    - [_通知](/job/_通知.md)
-    - [判断](/job/判断.md)
-    - [常识](/job/常识.md)
-    - [数量](/job/数量.md)
-    - [言语](/job/言语.md)
-    - [资料](/job/资料.md)
+  - linux
+    - [command](/linux/command.md)
+    - [sh](/linux/sh.md)
   - lookup
-    - [command](/lookup/command.md)
     - [linux](/lookup/linux.md)
-    - [markdown论文](/lookup/markdown论文.md)
-    - [pytorch](/lookup/pytorch.md)
-    - [sh](/lookup/sh.md)
-    - [vim](/lookup/vim.md)
-    - [整理的一些论文](/lookup/整理的一些论文.md)
-    - [杂项](/lookup/杂项.md)
+  - nlp
+    - [整理的一些论文](/nlp/整理的一些论文.md)
   - paper
     - [Materials and Methods](/paper/Materials%20and%20Methods.md)
     - [discussion](/paper/discussion.md)
     - [introduction](/paper/introduction.md)
+    - [markdown论文](/paper/markdown论文.md)
     - [result](/paper/result.md)
+  - python
+    - [pytorch](/python/pytorch.md)
+    - [杂项](/python/杂项.md)
+  - vim
+    - [vim](/vim/vim.md)
+  - 考公
+    - [_申论](/考公/_申论.md)
+    - [_经验之谈](/考公/_经验之谈.md)
+    - [_通知](/考公/_通知.md)
+    - [判断](/考公/判断.md)
+    - [常识](/考公/常识.md)
+    - [数量](/考公/数量.md)
+    - [言语](/考公/言语.md)
+    - [资料](/考公/资料.md)

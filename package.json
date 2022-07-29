@@ -1,0 +1,20 @@
+{
+  "name": "tazimie.github.io",
+  "version": "1.0.0",
+  "description": "my blog for unfamiliar knowledge",
+  "main": "_sidebar.js",
+  "scripts": {
+    "publish": "docsify-auto-sidebar -d ./ && git push",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tazimie/tazimie.github.io.git"
+  },
+  "author": "tazim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tazimie/tazimie.github.io/issues"
+  },
+  "homepage": "https://github.com/tazimie/tazimie.github.io#readme"
+}
