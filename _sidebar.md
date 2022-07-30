@@ -1,10 +1,12 @@
   - [_coverpage](/_coverpage.md)
-  - linux
-    - [command](/linux/command.md)
-    - [sh](/linux/sh.md)
-  - lookup
-    - [gitcommand](/lookup/gitcommand.md)
-    - [linux](/lookup/linux.md)
+  - cheatsheet
+    - [command](/cheatsheet/command.md)
+    - [git](/cheatsheet/git.md)
+    - [latex](/cheatsheet/latex.md)
+    - [linux](/cheatsheet/linux.md)
+    - [ranger](/cheatsheet/ranger.md)
+    - [sh](/cheatsheet/sh.md)
+    - [vim](/cheatsheet/vim.md)
   - nlp
     - [整理的一些论文](/nlp/整理的一些论文.md)
   - paper
@@ -16,8 +18,6 @@
   - python
     - [pytorch](/python/pytorch.md)
     - [杂项](/python/杂项.md)
-  - vim
-    - [vim](/vim/vim.md)
   - 考公
     - [_申论](/考公/_申论.md)
     - [_经验之谈](/考公/_经验之谈.md)
