@@ -3,6 +3,7 @@
     - [command](/linux/command.md)
     - [sh](/linux/sh.md)
   - lookup
+    - [gitcommand](/lookup/gitcommand.md)
     - [linux](/lookup/linux.md)
   - nlp
     - [整理的一些论文](/nlp/整理的一些论文.md)

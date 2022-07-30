@@ -4,7 +4,7 @@
   "description": "my blog for unfamiliar knowledge",
   "main": "_sidebar.js",
   "scripts": {
-    "publish": "docsify-auto-sidebar -d ./ && git push",
+    "publish": "docsify-auto-sidebar -d ./ && git add . && git commit && git push",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
