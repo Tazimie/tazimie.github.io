@@ -1,23 +1,28 @@
   - [_coverpage](/_coverpage.md)
-  - cheatsheet
-    - [command](/cheatsheet/command.md)
-    - [git](/cheatsheet/git.md)
-    - [latex](/cheatsheet/latex.md)
-    - [linux](/cheatsheet/linux.md)
-    - [ranger](/cheatsheet/ranger.md)
-    - [sh](/cheatsheet/sh.md)
-    - [vim](/cheatsheet/vim.md)
+  - linux
+    - [command](/linux/command.md)
+    - [git](/linux/git.md)
+    - [linux](/linux/linux.md)
+    - [ranger](/linux/ranger.md)
+    - [sh](/linux/sh.md)
+    - [vim](/linux/vim.md)
   - nlp
     - [整理的一些论文](/nlp/整理的一些论文.md)
+  - others
+    - [girl](/others/girl.md)
+    - [latex](/others/latex.md)
   - paper
     - [Materials and Methods](/paper/Materials%20and%20Methods.md)
     - [discussion](/paper/discussion.md)
     - [introduction](/paper/introduction.md)
     - [markdown论文](/paper/markdown论文.md)
+    - [md写论文](/paper/md写论文.md)
     - [result](/paper/result.md)
+    - [整理的一些论文](/paper/整理的一些论文.md)
   - python
+    - [ml_snippet](/python/ml_snippet.md)
     - [pytorch](/python/pytorch.md)
-    - [杂项](/python/杂项.md)
+    - [正则表达式](/python/正则表达式.md)
   - 考公
     - [_申论](/考公/_申论.md)
     - [_经验之谈](/考公/_经验之谈.md)

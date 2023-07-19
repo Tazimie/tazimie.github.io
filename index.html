@@ -12,8 +12,17 @@
     <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css" />
     <link
       rel="stylesheet"
-      href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css"
+      href="//cdn.jsdelivr.net/npm/katex@0.16.2/dist/katex.min.css"
+      integrity="sha384-bYdxxUwYipFNohQlHt0bjN/LCpueqWz13HufFEV1SUatKs1cm4L6fFgCi1jT643X"
+      crossorigin="anonymous"
     />
+    <script
+      src="//cdn.jsdelivr.net/npm/katex@0.16.2/dist/katex.min.js"
+      integrity="sha384-Qsn9KnoKISj6dI8g7p1HBlNpVx0I8p1SvlwOldgi3IorMle61nQy4zEahWYtljaz"
+      crossorigin="anonymous"
+    ></script>
+
+    <script src="//cdn.jsdelivr.net/npm/marked@4"></script>
   </head>
 
   <body>
@@ -23,7 +32,7 @@
     <script src="https://unpkg.com/docsify-copy-code"></script>
     <script>
       window.$docsify = {
-        name: "一些笔记",
+        name: "笔记",
         repo: "https://github.com/tazimie/tazimie.github.io",
         maxLevel: 5, //最大支持渲染的标题层级
         subMaxLevel: 3,
@@ -48,6 +57,8 @@
         ],
       };
     </script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
+
     <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
     <!--Java代码高亮-->
     <!-- <script src="//unpkg.com/prismjs/components/prism-java.js"></script> -->
@@ -64,8 +75,9 @@
     <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script>
-    a<!-- CDN files for docsify-katex -->
-    <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
-    <!-- or <script src="//cdn.jsdelivr.net/gh/upupming/docsify-katex@latest/dist/docsify-katex.js"></script> -->
+    <!-- CDN files for docsify-katex -->
+    <!-- <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script> -->
+
+    <!-- <script src="//cdn.jsdelivr.net/gh/upupming/docsify-katex@latest/dist/docsify-katex.js"></script> -->
   </body>
 </html>
